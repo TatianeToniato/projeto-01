@@ -26,6 +26,7 @@ body {
 nav {
     background-color: var(--cor0);
     padding: 10px;
+    min-width: 600px;
 }
 
 nav a {
@@ -45,7 +46,7 @@ nav > a:hover {
 
 header {
     background-color: var(--cor0);
-    min-height: 150px;
+    min-height: 300px;
     min-width: 600px;
     text-align: center;
     padding-top: 15px;
@@ -315,6 +316,8 @@ footer {
     background-color: var(--cor0);
     color: white;
     min-height: 150px;
+    min-width: 600px;
+
     
 }
 
