@@ -45,7 +45,7 @@ nav > a:hover {
 
 header {
     background-color: var(--cor0);
-    min-height: 300px;
+    min-height: 450px;
     text-align: center;
     padding-top: 15px;
 }
@@ -313,7 +313,7 @@ footer {
     justify-content: center;
     background-color: var(--cor0);
     color: white;
-    min-height: 150px;
+    min-height: 450px;
 }
 
 footer a {
